@@ -12,10 +12,11 @@ import java.util.List;
  */
 public class ZigzagConversion {
     public static void main(String[] args) {
-        System.out.println(convert("SKWEN",3));
+        System.out.println(convert("SKWEN", 3));
     }
+
     public static String convert(String s, int numRows) {
-        
+
         if (numRows == 1) {
             return s;
         }

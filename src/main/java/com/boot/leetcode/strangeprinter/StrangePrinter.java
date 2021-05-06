@@ -11,6 +11,7 @@ public class StrangePrinter {
     public static void main(String[] args) {
         System.out.println(strangePrinter("aaabbbCcb"));
     }
+
     public static int strangePrinter(String s) {
         int n = s.length();
         if (n == 0) {

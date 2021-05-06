@@ -10,8 +10,9 @@ package com.boot.leetcode.addtwonumbers;
 public class AddTwoNumbers {
 
     public static void main(String[] args) {
-        System.out.println(addTwoNumbers(new ListNode(1),new ListNode(2)).val);
+        System.out.println(addTwoNumbers(new ListNode(1), new ListNode(2)).val);
     }
+
     public static ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         // 存储十位数据
         int record = 0;

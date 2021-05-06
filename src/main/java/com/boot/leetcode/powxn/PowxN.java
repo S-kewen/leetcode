@@ -9,7 +9,7 @@ package com.boot.leetcode.powxn;
  */
 public class PowxN {
     public static void main(String[] args) {
-        System.out.println(myPow(6,88));
+        System.out.println(myPow(6, 88));
     }
 
     public static double myPow(double x, int n) {

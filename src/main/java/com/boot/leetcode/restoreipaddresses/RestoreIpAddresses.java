@@ -14,6 +14,7 @@ public class RestoreIpAddresses {
     static final int SEG_COUNT = 4;
     static List<String> ans = new ArrayList<String>();
     static int[] segments = new int[SEG_COUNT];
+
     public static void main(String[] args) {
         System.out.println(restoreIpAddresses("25525511135"));
     }

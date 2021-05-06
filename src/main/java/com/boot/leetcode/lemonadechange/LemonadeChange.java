@@ -9,8 +9,9 @@ package com.boot.leetcode.lemonadechange;
  */
 public class LemonadeChange {
     public static void main(String[] args) {
-        System.out.println(lemonadeChange(new int []{5,5,10,20}));
+        System.out.println(lemonadeChange(new int[]{5, 5, 10, 20}));
     }
+
     public static boolean lemonadeChange(int[] bills) {
         int five = 0, ten = 0;
         for (int bill : bills) {

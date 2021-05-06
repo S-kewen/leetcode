@@ -9,9 +9,9 @@ package com.boot.leetcode.nextpermutation;
  */
 public class NextPermutation {
     public static void main(String[] args) {
-        int [] nums = {1,2,3};
+        int[] nums = {1, 2, 3};
         nextPermutation(nums);
-        for (int i : nums){
+        for (int i : nums) {
             System.out.println(i);
         }
     }

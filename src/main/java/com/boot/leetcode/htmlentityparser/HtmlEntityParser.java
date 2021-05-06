@@ -11,6 +11,7 @@ public class HtmlEntityParser {
     public static void main(String[] args) {
         System.out.println(entityParser("&amp; is an HTML entity but &ambassador; is not."));
     }
+
     public static String entityParser(String text) {
         return text.replace("&quot;", "\"").replace("&apos;", "'").replace("&gt;", ">").replace("&lt;", "<").replace("&frasl;", "/").replace("&amp;", "&");
     }

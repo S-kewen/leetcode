@@ -14,7 +14,8 @@ import java.util.Map;
  */
 public class t9lcci {
     public static void main(String[] args) {
-        System.out.println(getValidT9Words("2", new String[]{"a", "b", "c", "d"}));;
+        System.out.println(getValidT9Words("2", new String[]{"a", "b", "c", "d"}));
+        ;
     }
 
     public static List<String> getValidT9Words(String num, String[] words) {

@@ -9,7 +9,7 @@ package com.boot.leetcode.implementstrstr;
  */
 public class ImplementStrStr {
     public static void main(String[] args) {
-        System.out.println(strStr("hello","ll"));
+        System.out.println(strStr("hello", "ll"));
     }
 
     public static int strStr(String haystack, String needle) {
