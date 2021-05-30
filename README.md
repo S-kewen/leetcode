@@ -5,6 +5,9 @@
 官網（英文）：https://leetcode.com/
 LeetCode是一个在线算法编程网站，上面主要收集了各大IT公司的笔试面试题，对于找工作是一个不可多得的好帮手。
 
+
+(Notes: Last updated table: 2021-05-31)
+
 | # | Title  | Difficulty |
 |---| -----  | ---------- |
 |[#](https://leetcode-cn.com/problems/add-two-numbers/) |[add-two-numbers](https://github.com/S-kwen/leetcode/tree/main/src/main/java/com/boot/leetcode/addtwonumbers) |Simple|
@@ -99,6 +102,8 @@ LeetCode是一个在线算法编程网站，上面主要收集了各大IT公司�
 |[#](https://leetcode-cn.com/problems/valid-parentheses/) |[valid-parentheses](https://github.com/S-kwen/leetcode/tree/main/src/main/java/com/boot/leetcode/validparentheses) |Simple|
 |[#](https://leetcode-cn.com/problems/valid-phone-numbers/) |[valid-phone-numbers](https://github.com/S-kwen/leetcode/tree/main/src/main/java/com/boot/leetcode/validphonenumbers) |Simple|
 |[#](https://leetcode-cn.com/problems/find-common-characters/) |[find-common-characters](https://github.com/S-kwen/leetcode/tree/main/src/main/java/com/boot/leetcode/zigzagconversion) |Simple|
+
+
 ## Contact Author
 石桂華(Skwen) https://blog.iskwen.com
 # END
